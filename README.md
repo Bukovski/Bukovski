@@ -8,7 +8,7 @@
 - 👨‍💻 Front-end Enthusiast & Volunteer
 - 📚 Mentor & Teacher
 - 💬 Ask me about anything, I am happy to help
-- :neutral_face: I have a **love/hate** relationship with **Programming**
+- :neutral_face: I have a love/hate relationship with Programming
 
 
 <img align="right" alt="GIF" src="assets/code.gif" width="500" height="320" />
@@ -25,9 +25,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=fff)
+![react-router](https://img.shields.io/badge/-ReactRouter-CA4245?style=flat-square&logo=reactRouter&logoColor=fff)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
-![Vuex](https://img.shields.io/badge/-Vuex-42B983?style=flat-square&logo=vuex)
+![jQuery](https://img.shields.io/badge/-jQuery-%23F7DF1C?style=flat-square&logo=jQuery&logoColor=000)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-%2343853D.svg?style=flat-square&logo=Node.js&logoColor=fff)
 ![Epress](https://img.shields.io/badge/-Epress.JS-black?style=flat-square&logo=epress.js)
@@ -43,6 +44,7 @@
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=fff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=fff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
+![styled-components](https://img.shields.io/badge/-StyledComponents-A06940?style=flat-square&logo=styledComponents&logoColor=fff)
 
 ![Mocha](https://img.shields.io/badge/-Mocha-8d6748?style=flat-square&logo=Mocha&logoColor=fff)
 ![Chai](https://img.shields.io/badge/-Chai-A41002?style=flat-square&logo=Chai&logoColor=fff)

@@ -24,19 +24,20 @@
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![Vuex](https://img.shields.io/badge/-Vuex-green?style=flat-square&logo=vuex)
 
+![Npm](https://img.shields.io/badge/-npm-E9541F?style=flat-square&logo=npm&logoColor=fff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Epress](https://img.shields.io/badge/-Epress-black?style=flat-square&logo=epress.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-007ACC?style=flat-square&logo=mysql&logoColor=fff")
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-007ACC?style=flat-square&logo=firebase)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=fff)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=fff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -46,7 +47,8 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-%231572B6?style=flat-square&logo=WebStorm)
-![PostMan](https://img.shields.io/badge/-postman-E34F26?style=flat-square&logo=postman&logoColor=fff)
+
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E9541F?style=flat-square&logo=Ubuntu&logoColor=fff)
 
 
 

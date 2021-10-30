@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi all, I'm Kirill.
 
-<!--
-**Bukovski/Bukovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img align="right" src="https://komarev.com/ghpvc/?username=Bukovski&label=Profile%20Views%20&color=4680C2&style=flat-square" alt="Bukovski" />
 
-Here are some ideas to get you started:
+**I'm a Developer and Teacher!**
+- 📍 I’m From Ukraine (Luhansk)
+- 💻 3+ Years Experience in Front-end Development
+- 👨‍💻 Front-end Enthusiast & Volunteer
+- 📚 Mentor & Teacher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🤝 Connect with me:**
+
+[<img alt="VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=fff" />][vk]
+[<img alt="MAIL" src="https://img.shields.io/badge/mail-F59B0B.svg?&style=for-the-badge&logo=mail.ru&logoColor=fff" />][mail]
+[<img alt="TELEGRAM" src="https://img.shields.io/badge/telegram-00d4ff.svg?&style=for-the-badge&logo=telegram&logoColor=fff" />][telegram]
+
+
+**Languages and Tools:**  
+
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bukovski&theme=light&hide_langs_below=1" />
+</a>   
+
+
+[vk]: https://vk.com/kirill_bukovski
+[mail]: mailto:kmanankov@bk.ru
+[telegram]: https://tlgg.ru/Kirill_Bukovski

@@ -42,6 +42,11 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=fff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 
+![Mocha](https://img.shields.io/badge/-Mocha-8d6748?style=flat-square&logo=Mocha&logoColor=fff)
+![Chai](https://img.shields.io/badge/-Chai-A41002?style=flat-square&logo=Chai&logoColor=fff)
+![Sinon](https://img.shields.io/badge/-Sinon-A0D3A4?style=flat-square&logo=Sinon.js)
+![jest](https://img.shields.io/badge/-jest-910E1B?style=flat-square&logo=jest)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
@@ -49,6 +54,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-%231572B6?style=flat-square&logo=WebStorm)
+![Postman](https://img.shields.io/badge/-Postman-E9541F?style=flat-square&logo=Postman&logoColor=fff)
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E9541F?style=flat-square&logo=Ubuntu&logoColor=fff)
 

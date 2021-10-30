@@ -8,6 +8,8 @@
 - 👨‍💻 Front-end Enthusiast & Volunteer
 - 📚 Mentor & Teacher
 
+<img align="right" alt="GIF" src="assets/code.gif" width="500" height="320" />
+
 **🤝 Connect with me:**
 
 [<img alt="VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=fff" />][vk]

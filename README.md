@@ -40,7 +40,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=fff)
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=fff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=fff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
@@ -49,6 +49,7 @@
 ![Mocha](https://img.shields.io/badge/-Mocha-8d6748?style=flat-square&logo=Mocha&logoColor=fff)
 ![Chai](https://img.shields.io/badge/-Chai-A41002?style=flat-square&logo=Chai&logoColor=fff)
 ![jest](https://img.shields.io/badge/-jest-910E1B?style=flat-square&logo=jest)
+![testing-library](https://img.shields.io/badge/-TestingLibrary-B51514?style=flat-square&logo=testing-library&logoColor=fff)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 
 ![Npm](https://img.shields.io/badge/-npm-E9541F?style=flat-square&logo=npm&logoColor=fff)

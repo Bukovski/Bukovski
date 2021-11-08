@@ -9,6 +9,7 @@
 - 📚 Mentor & Teacher
 - 💬 Ask me about anything, I am happy to help
 - :neutral_face: I have a love/hate relationship with Programming
+- 💪 The main wealth is health. That's why I do fitness.
 
 
 <img align="right" alt="GIF" src="assets/code.gif" width="500" height="320" />

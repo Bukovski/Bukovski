@@ -51,6 +51,7 @@
 ![Chai](https://img.shields.io/badge/-Chai-A41002?style=flat-square&logo=Chai&logoColor=fff)
 ![jest](https://img.shields.io/badge/-jest-910E1B?style=flat-square&logo=jest)
 ![testing-library](https://img.shields.io/badge/-TestingLibrary-B51514?style=flat-square&logo=testing-library&logoColor=fff)
+![puppeteer](https://img.shields.io/badge/-Puppeteer-3BD8A2?style=flat-square&logo=puppeteer&logoColor=fff)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 
 ![Npm](https://img.shields.io/badge/-npm-E9541F?style=flat-square&logo=npm&logoColor=fff)

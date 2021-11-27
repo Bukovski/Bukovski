@@ -28,7 +28,7 @@
 ![React](https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=fff)
 ![react-router](https://img.shields.io/badge/-ReactRouter-CA4245?style=flat-square&logo=reactRouter&logoColor=fff)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![MobX](https://img.shields.io/badge/-MobX-EC5A03?style=flat-square&logo=mobx&logoColor=fff)
+![MobX](https://img.shields.io/badge/-MobX-orange?style=flat-square&logo=mobx&logoColor=fff)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![jQuery](https://img.shields.io/badge/-jQuery-%23F7DF1C?style=flat-square&logo=jQuery&logoColor=000)
 

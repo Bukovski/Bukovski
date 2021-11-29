@@ -31,6 +31,8 @@
 ![MobX](https://img.shields.io/badge/-MobX-orange?style=flat-square&logo=mobx&logoColor=fff)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![jQuery](https://img.shields.io/badge/-jQuery-%23F7DF1C?style=flat-square&logo=jQuery&logoColor=000)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=Markdown&logoColor=fff)
+
 
 <!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-%2343853D.svg?style=flat-square&logo=Node.js&logoColor=fff)
 ![Epress](https://img.shields.io/badge/-Epress.JS-black?style=flat-square&logo=epress.js)
@@ -46,6 +48,7 @@
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=fff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=fff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
+![Pug](https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=Pug&logoColor=fff)
 ![styled-components](https://img.shields.io/badge/-StyledComponents-A06940?style=flat-square&logo=styledComponents&logoColor=fff)
 
 ![Mocha](https://img.shields.io/badge/-Mocha-8d6748?style=flat-square&logo=Mocha&logoColor=fff)

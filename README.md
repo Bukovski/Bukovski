@@ -12,7 +12,7 @@
 - 💪 The main wealth is health. That's why I do fitness.
 
 
-<img align="right" alt="GIF" src="https://c.tenor.com/PRN-EHOCuHwAAAAd/the-it-crowd-moss-the-it-crowd.gif" width="500" />
+<img align="right" alt="GIF" src="./assets/the-it-crowd-moss-the-it-crowd.gif" width="500" />
 
 **🤝 Connect with me:**
 
@@ -34,13 +34,15 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=Markdown&logoColor=fff)
 
 
-<!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-%2343853D.svg?style=flat-square&logo=Node.js&logoColor=fff)
+<!-- 
+![Nodejs](https://img.shields.io/badge/-Nodejs-%2343853D.svg?style=flat-square&logo=Node.js&logoColor=fff)
 ![Epress](https://img.shields.io/badge/-Epress.JS-black?style=flat-square&logo=epress.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-007ACC?style=flat-square&logo=mysql&logoColor=fff")
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Firebase](https://img.shields.io/badge/-Firebase-007ACC?style=flat-square&logo=firebase) -->
+![Firebase](https://img.shields.io/badge/-Firebase-007ACC?style=flat-square&logo=firebase) 
+-->
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)

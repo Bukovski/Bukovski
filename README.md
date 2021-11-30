@@ -1,4 +1,4 @@
-# Hi all, I'm Kirill.
+# A computer program will always do what you tell it to do, but rarely what you want to do.
 
  <img align="right" src="https://komarev.com/ghpvc/?username=Bukovski&label=Profile%20Views%20&color=4680C2&style=flat-square" alt="Bukovski" />
 
@@ -12,7 +12,7 @@
 - 💪 The main wealth is health. That's why I do fitness.
 
 
-<img align="right" alt="GIF" src="assets/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://c.tenor.com/PRN-EHOCuHwAAAAd/the-it-crowd-moss-the-it-crowd.gif" width="500" />
 
 **🤝 Connect with me:**
 
